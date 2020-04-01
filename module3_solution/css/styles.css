@@ -1,0 +1,49 @@
+/* NAVBAR */
+nav#header-nav.navbar.navbar-default {
+	position: relative;
+	padding-bottom: 20px;
+}
+h1 {
+	position: absolute;
+	margin-top: 0;
+}
+button.navbar-toggle.visible-xs {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin-top: 20px;
+}
+div#collapsable-nav.navbar-collapse.collapse.in {
+	margin-top: 15px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	background-color: grey;
+}
+li div {
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 1.2em;
+}
+/* END NAVBAR */
+
+/* HOME PAGE */
+h2 {
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+section div {
+	background-color: cyan;
+	margin: 0;
+}
+.title {
+	text-align: center;
+	font-weight: bold;
+}
+.row {
+	margin-right: 0;
+	margin-left: 0;
+}
+/* END HOME PAGE */
+
+
